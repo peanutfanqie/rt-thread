@@ -41,6 +41,7 @@ RT-Thread RTOS can support many architectures:
 * RISC-V
 * PowerPC
 *
+*
 ## License ##
 
 RT-Thread is Open Source software under the Apache License 2.0 since RT-Thread v3.1.1. License and copyright information can be found within the code.
